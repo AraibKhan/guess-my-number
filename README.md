@@ -23,7 +23,7 @@ To get started with the Guess My Number project, follow these steps:
 
 ## Demo
 
-A live demo of the Guess My Number project can be found at
+A live demo of the Guess My Number project can be found at https://araib-guess-my-number.netlify.app/
 
 ## Features
 
